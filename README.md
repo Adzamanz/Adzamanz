@@ -1,7 +1,7 @@
 Hi!
 My name is Aaron Zamanzadeh, 
 
-I am a Full Stack Software Engineer specializing in Python, JavaScript, React, Node.js, and Flask
+I am a Full Stack Software Engineer working out of Los Angeles specializing in Python, JavaScript, React, Node.js, and Flask
 
 🤔 I graduated from App Academy's one-year program while working full time.
 

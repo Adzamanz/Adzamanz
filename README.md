@@ -7,7 +7,7 @@ I am a Full Stack Software Engineer working out of Los Angeles specializing in P
 
 👯 I've always had a passion for coding and problem solving in a collaborative environment.
 
-✨ I'm currently advancing my skills with AWS, and becoming more familiar with Nginx.
+✨ I'm currently advancing my skills with AWS, and becoming more familiar with Nginx as well as gunicorn.
 
 _____________________________________________________________________
 
